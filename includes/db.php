@@ -2,7 +2,7 @@
 $host = "localhost"; // Sesuaikan dengan host Anda
 $username = "root";  // Username MySQL
 $password = "";      // Password MySQL
-$database = "db_antriklinik"; // Nama database
+$database = "klinik"; // Nama database
 
 // Koneksi ke database
 $conn = new mysqli($host, $username, $password, $database);
